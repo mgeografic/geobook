@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\mhlea\OneDrive\Área de Trabalho\GEOTESE\geotese\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>FFFF9B</corfondo>
+        <corbanda>F42C09</corbanda>
+        <cornavega>1111DB</cornavega>
+        <cormensaxes>00FF00</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Revisão</titulo>
+          <subtitulo>Avaliação</subtitulo>
+          <autor>Marllon Leandrp</autor>
+        <logo>..\..\Área de Trabalho\GEOTESE\geotese\images.png</logo>
+          <imaxefondo posx="-14" posy="42" trans="100">..\..\Área de Trabalho\GEOTESE\geotese\istockphoto-1448525856-612x612.jpg</imaxefondo>
+          <informe>0</informe>
+          <botonson>1</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\..\Área de Trabalho\GEOTESE\geotese\correct-83487.mp3" modo="1" >Parabéns!</correcto>
+        <incorrecto son="..\..\Área de Trabalho\GEOTESE\geotese\error-4-199275.mp3" modo="1" >Não foi dessa vez, tente outra vez!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>14</tipo>
+              <cabeceira>Arraste as imagens de acordo com o seu significado:</cabeceira>
+              <peza imaxe="..\..\Área de Trabalho\GEOTESE\geotese\images (1).jpeg" texto="CAMARÕES" son="\">..\..\Área de Trabalho\GEOTESE\geotese\images (1).jpeg</peza>
+              <peza imaxe="..\..\Área de Trabalho\GEOTESE\geotese\download.png" texto="GANA" son="\">..\..\Área de Trabalho\GEOTESE\geotese\download.png</peza>
+              <peza imaxe="..\..\Área de Trabalho\GEOTESE\geotese\download (1).png" texto="TURQUIA" son="\">..\..\Área de Trabalho\GEOTESE\geotese\download (1).png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>Arraste as imagens de acordo com o seu significado:</cabeceira>
+              <peza imaxe="\" texto="CAMARÕES" son="\">..\..\Área de Trabalho\GEOTESE\geotese\camaroes.jpeg</peza>
+              <peza imaxe="\" texto="GANA" son="\">..\..\Área de Trabalho\GEOTESE\geotese\download.png</peza>
+              <peza imaxe="\" texto="TURQUIA" son="\">..\..\Área de Trabalho\GEOTESE\geotese\Flag_of_Turkey-2048x1365.png</peza>
+              <cfondo>FF80C0</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>13</tipo>
+              <cabeceira>Arraste o conceito ao seu significado:</cabeceira>
+              <unir texto="Lugar">Casa</unir>
+              <unir texto="Região">Industrial</unir>
+              <unir texto="Paisagem">natural</unir>
+              <unir texto="Território">poder</unir>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre o conceito para cada enunciado clicando na letra inicial e final da palavra:</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Camada mais interna da Terra?">nucleo</sopa>
+              <sopa enun="Camada mais superficial da Terra?">crosta</sopa>
+              <sopa enun="Maior camada interna da Terra?">manto</sopa>
+              <sopa enun="Placa tectônica que se afasta?">divergente</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>Classifique as imagens de acordo com seu tipo:</cabeceira>
+              <mais ir="https://www.cartacapital.com.br/mundo/terremoto-de-magnitude-7-atinge-regiao-costeira-da-russia-e-provoca-alerta-de-tsunami/">acesse o link para mais informações</mais>
+              <caixa1>Agente externo do relevo</caixa1>
+              <caixa2>Agente interno do relevo</caixa2>
+              <mini caixa="2">..\..\Área de Trabalho\GEOTESE\geotese\93247ddf5387da4efbb4a0c4910a3484.jpg</mini>
+              <mini caixa="1">..\..\Área de Trabalho\GEOTESE\geotese\01142306_37975_GD.jpg</mini>
+              <mini caixa="2">..\..\Área de Trabalho\GEOTESE\geotese\th.jpeg</mini>
+              <mini caixa="1">..\..\Área de Trabalho\GEOTESE\geotese\th (2).jpeg</mini>
+              <mini caixa="1">..\..\Área de Trabalho\GEOTESE\geotese\th (1).jpeg</mini>
+              <mini caixa="2">..\..\Área de Trabalho\GEOTESE\geotese\etna-1-2048x1536.jpg</mini>
+              <cfondo>3CD226</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
